@@ -1,4 +1,4 @@
 <template>
-  <main>Bem Vindo</main>
+  <main>Time</main>
   <footer>Rodapé</footer>
 </template>
